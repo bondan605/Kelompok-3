@@ -1,2 +1,4 @@
 # Kelompok-3
-### Tes Host Bondan
+### Biodata Anggota :
+- Nama : Ahmad Bondan Gunawan
+- Kelas : AND 2
