@@ -1,6 +1,6 @@
 # Kelompok-3
 ### Tes Host Bondan
 
-# Nama : Willy
-- Kelompok : 3
+# Kelompok 3
+- Nama : Willy
 
