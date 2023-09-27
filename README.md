@@ -9,3 +9,8 @@
 - Nama: Arya Rezza Anantya
 - Kelas: AND-2
 - Role: Menjadi raja bumi dan langit
+
+## Biodata Anggota:
+- Nama: Muhammad Zachrie Kurniawan
+- Kelas: AND-2
+- Role: tidak tau
