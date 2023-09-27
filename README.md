@@ -3,5 +3,5 @@
 
 # Kelompok 3
 - Nama : Willy
-- Jenis Kelamin : Laki-laki
+- Jenis Kelamin : Laki-Laki
 
