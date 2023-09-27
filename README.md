@@ -1,3 +1,3 @@
 # Kelompok-3
 ### Tes Host Bondan
-- Nama : Satria Dafa Putra Wardhana
+- Nama : Satria Dafa Putra W
