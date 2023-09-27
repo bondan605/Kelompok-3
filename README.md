@@ -5,3 +5,4 @@
 - Role: Menjadi raja bumi dan langit
 
 - Nama: Muhammad Zachrie Kurniawan
+- Kelas: AND-2
