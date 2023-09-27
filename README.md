@@ -1,2 +1,3 @@
 # Kelompok-3
-### Tes Host Bondan
+## Biodata Anggota:
+- Nama: Arya Rezza Anantya
